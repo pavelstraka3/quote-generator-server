@@ -1,8 +1,8 @@
 {
   "name": "quote-generator-server",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "NestJS service to generate random quotes",
+  "author": "Pavel Straka",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
